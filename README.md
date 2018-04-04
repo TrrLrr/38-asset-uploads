@@ -48,4 +48,3 @@ Continue working on the application that you started yesterday.  You'll want to 
 ### Testing
 * Test all of your authentication based actions
 * Test to ensure that authentication based actions are properly evalutated in your reducer
-* Test the initial properties on your `<ProfileForm>` component
